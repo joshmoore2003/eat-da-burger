@@ -24,4 +24,4 @@ Finally, run the node server locally.
 Now, open the local application on port 3000 at the URL: `http://localhost:3000/`.
 
 **Enjoy and have a burger!**
-![burger photo](public/assets/img/eat-da-burger.JPG)
+![burger photo](https://github.com/joshmoore2003/eat-da-burger/blob/master/public/assets/img/eat-da-burger.JPG)
