@@ -12,4 +12,3 @@ CREATE TABLE burgers(
     date TIMESTAMP not null DEFAULT current_timestamp,
     primary key(id)
     );
-
